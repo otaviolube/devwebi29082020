@@ -1,0 +1,12 @@
+Criem uma estrutura básica de arquivos de um projeto web:
+
+--- projeto
+---- index.html
+---- index.js
+---- index.css
+
+Linkem os arquivos index.js e index.css no index.html 
+
+Subam o projeto que está nesta pasta para um github / gitlab ou qualquer sistema de controle de verões que preferir e postem o link público para este sistema em nosso ava no fórum: 
+
+https://ava.faesa.br/d2l/le/57560/discussions/threads/11605/View
